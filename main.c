@@ -1,19 +1,3 @@
-void main() {
-
-}
-
-void Init(){
-
-}
-
-void allowcate(){
-
-}
-
-void isSafe(){
-
-}
-
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
